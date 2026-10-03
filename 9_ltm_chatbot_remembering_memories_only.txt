@@ -1,0 +1,4 @@
+1. It extracts the information and stored in memory
+2. If the user queries the similar information multiple times in multiple queries, then duplicate memory is being stored
+3. We can simulate duplication memory here by running this script multiple times
+4. There are so many strategies for de-duplication. One of the strategy is to check whether that particular memory is already available in store. If available, tag that memory with flag true else false.
